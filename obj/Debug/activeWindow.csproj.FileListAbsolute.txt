@@ -1,0 +1,7 @@
+C:\Samples\activeWindow\bin\Debug\activeWindow.exe
+C:\Samples\activeWindow\bin\Debug\activeWindow.pdb
+C:\Samples\activeWindow\obj\Debug\activeWindow.csprojResolveAssemblyReference.cache
+C:\Samples\activeWindow\obj\Debug\activeWindow.Form1.resources
+C:\Samples\activeWindow\obj\Debug\activeWindow.csproj.GenerateResource.Cache
+C:\Samples\activeWindow\obj\Debug\activeWindow.exe
+C:\Samples\activeWindow\obj\Debug\activeWindow.pdb
